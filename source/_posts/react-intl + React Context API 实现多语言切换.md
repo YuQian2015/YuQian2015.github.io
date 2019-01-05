@@ -1,7 +1,7 @@
 ---
 title: react-intl + React Context API 实现多语言切换
 date: 2019-01-05 23:21:28
-tags: [React, Webpack, OnsenUI]
+tags: [React, react-intl]
 toc: true
 ---
 
