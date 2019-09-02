@@ -19,13 +19,13 @@ yum install -y unzip zip
 
 我已经将部分配置用的包上传到七牛云储存，使用以下外链即可下载。
 
-- JDK http://pdfhkggfi.bkt.clouddn.com/jdk-8u181-linux-x64.tar.gz
-- tomcat http://mirror.bit.edu.cn/apache/tomcat/tomcat-7/v7.0.90/bin/apache-tomcat-7.0.90.tar.gz
+- JDK http://qiniu.moyufed.com/jdk-8u181-linux-x64.tar.gz
+- tomcat http://qiniu.moyufed.com/apache-tomcat-7.0.90.tar.gz
 
 WCP：
 
-- WCP3.2.5免费版 http://pdfhkggfi.bkt.clouddn.com/WCP3.2.5.free.zip
-- wcp3.2.5.sql http://pdfhkggfi.bkt.clouddn.com/wcp3.2.5.sql
+- WCP3.2.5免费版 http://qiniu.moyufed.com/WCP3.2.5.free.zip
+- wcp3.2.5.sql http://qiniu.moyufed.com/wcp3.2.5.sql
 
 ###2.安装JDK
 
@@ -36,7 +36,7 @@ WCP：
 ```shell
 mkdir /usr/java 
 cd /usr/java 
-wget http://pdfhkggfi.bkt.clouddn.com/jdk-8u181-linux-x64.tar.gz
+wget http://qiniu.moyufed.com/jdk-8u181-linux-x64.tar.gz
 ```
 
 #### 2.2 解压JDK
@@ -82,7 +82,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 24.79-b02, mixed mode)
 
 ```shell
 mkdir -p /web/wcp && cd /web/wcp
-wget http://mirror.bit.edu.cn/apache/tomcat/tomcat-7/v7.0.90/bin/apache-tomcat-7.0.90.tar.gz
+wget http://qiniu.moyufed.com/apache-tomcat-7.0.90.tar.gz
 ```
 
 #### 3.2 解压
@@ -200,11 +200,11 @@ cd /web/wcp/tomcat/webapps
 执行以下语句下载项目文件
 
 ```shell
-wget http://pdfhkggfi.bkt.clouddn.com/WCP3.2.5.free.zip
+wget http://qiniu.moyufed.com/WCP3.2.5.free.zip
 ```
 
 ```shell
-wget http://pdfhkggfi.bkt.clouddn.com/wcp3.2.5.sql
+wget http://qiniu.moyufed.com/wcp3.2.5.sql
 ```
 
 #### 5.2 将WCP知识库的SQL语句导入数据库
