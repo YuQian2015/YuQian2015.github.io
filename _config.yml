@@ -4,16 +4,16 @@
 
 # Site
 title: Moyufed
-subtitle: 前端分享
-description:
-keywords:
+subtitle: 又摸到好大一条鱼，羡慕~！摸鱼前端分享交流，欢迎一起来摸鱼。
+description: 分享有趣好玩前端技术
+keywords: 前端,分享,nodejs
 author: YuQian
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.moyufed.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

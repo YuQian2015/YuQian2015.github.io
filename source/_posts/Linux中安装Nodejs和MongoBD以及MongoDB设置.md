@@ -2,6 +2,7 @@
 title: Linux中安装Nodejs和MongoBD以及MongoDB设置
 date: 2019-09-04 18:18:10
 tags: [nodejs, mongodb]
+toc: true
 ---
 
 ### 1、安装 nodejs
