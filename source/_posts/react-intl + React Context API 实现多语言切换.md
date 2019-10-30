@@ -8,6 +8,8 @@ toc: true
 
 紧接着上一次的实战项目，这次要来完善多语言切换功能，使用 [react-intl](https://github.com/yahoo/react-intl) 来处理国际化，下面开始
 
+<!--more-->
+
 ### 1.安装 react-intl
 
 ```shell

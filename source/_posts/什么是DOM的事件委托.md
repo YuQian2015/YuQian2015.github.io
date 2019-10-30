@@ -1,12 +1,14 @@
 ---
 title: 什么是DOM的事件委托
 date: 2019-10-29 15:23:54
-tags:
+tags: [前端]
 ---
 
 ### DOM的事件委托
 
 DOM的事件委托（Event delegation）是通过事件 ”冒泡“ (event propagation) 来用单个父节点而非多个子节点响应 [UI Events](https://www.w3.org/TR/uievents/) 的技巧。
+
+<!--more-->
 
 #### 冒泡
 

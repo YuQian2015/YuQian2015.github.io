@@ -17,6 +17,8 @@ $ mkdir software
 $ cd software/
 ```
 
+<!--more-->
+
 下载需要的nodejs版本，本示例使用上传到CDN上的node包：
 
 ```powershell

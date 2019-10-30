@@ -14,6 +14,7 @@ toc: true
 
 redux 和 react并没有太大的关联， react-redux使得redux能和react更好地工作和。redux-thunk是redux的一个中间件，让我们能够直接访问dispatch方法，因此能够在action里面使用异步调用。
 
+<!--more-->
 
 ### 2.使用Provider
 
