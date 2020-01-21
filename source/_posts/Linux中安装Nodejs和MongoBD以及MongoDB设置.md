@@ -5,6 +5,15 @@ tags: [nodejs, mongodb]
 toc: true
 ---
 
+### 2020年1月21日更新
+
+关于nodejs的安装，可以去 [淘宝镜像](https://npm.taobao.org/mirrors/node) 寻找自己需要的版本进行下载，如：
+
+```powershell
+$ wget https://npm.taobao.org/mirrors/node/v12.14.1/node-v12.14.1-linux-x64.tar.gz
+$ tar -zxvf node-v12.14.1-linux-x64.tar.gz
+```
+
 ### 1、安装 nodejs
 
 #### 方式一：使用已编译好的包
