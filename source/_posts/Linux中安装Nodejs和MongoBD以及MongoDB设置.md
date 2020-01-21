@@ -7,11 +7,30 @@ toc: true
 
 ### 2020年1月21日更新
 
+#### 关于nodejs镜像下载
+
 关于nodejs的安装，可以去 [淘宝镜像](https://npm.taobao.org/mirrors/node) 寻找自己需要的版本进行下载，如：
 
 ```powershell
 $ wget https://npm.taobao.org/mirrors/node/v12.14.1/node-v12.14.1-linux-x64.tar.gz
 $ tar -zxvf node-v12.14.1-linux-x64.tar.gz
+```
+
+#### 关于解压失败
+
+用tar解压xz格式文件时出错
+
+```
+tar (child): xz: Cannot exec: No such file or directory
+tar (child): Error is not recoverable: exiting now
+tar: Child returned status 2
+tar: Error is not recoverable: exiting now
+```
+
+解决办法是安装xz软件包，执行如下命令：
+
+```powershell
+$ yum install xz -y
 ```
 
 ### 1、安装 nodejs
