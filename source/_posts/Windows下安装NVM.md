@@ -38,6 +38,11 @@ nvm on
 
 3.不进行第二步，nvm install 8.9.0 ，输入node，依旧提示
 
+```powershell
+'node' is not recognized as an internal or external command,
+operable program or batch file.
+```
+
 ### 参考资料
 
 [Win10 nvm 安装node 之 nvm on](https://juejin.im/post/5cfde431e51d45775b419bac)
