@@ -43,7 +43,7 @@ About to write to F:\project\webpack-start\package.json:
   "description": "快速开始webpack开发",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" &amp;&amp; exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "webpack"
@@ -383,12 +383,12 @@ class Demo {
     }
 
     wait() {
-        return new Promise((resolve, reject) =&gt; {
-            setTimeout(() =&gt; {
-                if(Math.random() &gt; 0.5) {
+        return new Promise((resolve, reject) => {
+            setTimeout(() => {
+                if(Math.random() > 0.5) {
                     resolve()
                 } else {
-                    reject(new Error('&lt;=0.5'))
+                    reject(new Error('<=0.5'))
                 }
             }, 1000);
         })
