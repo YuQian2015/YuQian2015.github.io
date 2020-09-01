@@ -1,7 +1,8 @@
 ---
 title: 'File APIs（Blob, BlobURL, ArrayBuffer, FileReader）'
 date: 2020-03-30 22:13:32
-tags:
+tags: [前端]
+toc: true
 ---
 
 ## 前言

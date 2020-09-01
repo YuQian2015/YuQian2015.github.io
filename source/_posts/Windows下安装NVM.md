@@ -1,7 +1,8 @@
 ---
 title: Windows下安装NVM
 date: 2019-11-23 22:30:15
-tags:
+tags: [Nodejs]
+toc: true
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: 使用Taro开发一个微信小程序一
 date: 2019-12-16 21:02:46
-tags:
+tags: [Nodejs]
+toc: true
 ---
 
 # 使用Taro开发一个微信小程序（一），小程序注册、项目创建

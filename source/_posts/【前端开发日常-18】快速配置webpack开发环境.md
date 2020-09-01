@@ -1,7 +1,8 @@
 ---
 title: 【前端开发日常 - 18】快速配置webpack开发环境
 date: 2020-04-03 18:22:36
-tags:
+tags: [Webpack, 前端]
+toc: true
 ---
 
 ## 检查环境
@@ -57,6 +58,9 @@ Is this ok? (yes)
 ```
 ## 安装 webpack 和 webpack-cli
 现在都已经 0202 年，webpack已经是到了4的版本了，不再与webpack-cli放在同一个仓库，因此安装完 webpack 之后还需要安装 webpack-cli 搭配食用才会香。参考文章：<a href="https://stackoverflow.com/questions/49092291/the-cli-moved-into-a-separate-package-webpack-cli">https://stackoverflow.com/questions/49092291/the-cli-moved-into-a-separate-package-webpack-cli</a>
+
+<!--more-->
+
 那么来看看安装命令：
 ``` shell
 # 使用npm

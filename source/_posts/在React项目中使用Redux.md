@@ -1,7 +1,7 @@
 ---
 title: 在React项目中使用Redux
 date: 2019-02-05 22:32:34
-tags: [react, redux, react-redux]
+tags: [React, 前端]
 toc: true
 ---
 

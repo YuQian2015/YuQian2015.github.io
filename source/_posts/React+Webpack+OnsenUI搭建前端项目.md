@@ -1,7 +1,7 @@
 ---
 title: React+Webpack+OnsenUI搭建前端项目
 date: 2018-12-09 18:18:13
-tags: [React, Webpack, OnsenUI]
+tags: [React, Webpack, 前端]
 toc: true
 ---
 

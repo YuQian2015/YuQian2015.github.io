@@ -2,6 +2,7 @@
 title: 什么是DOM的事件委托
 date: 2019-10-29 15:23:54
 tags: [前端]
+toc: true
 ---
 
 ### DOM的事件委托

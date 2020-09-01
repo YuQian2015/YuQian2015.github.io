@@ -1,7 +1,7 @@
 ---
 title: CentOS 7安装Nginx以及简单配置
 date: 2018-10-11 08:57:33
-tags: [Linux, Nginx]
+tags: [Linux, 全栈]
 toc: true
 ---
 

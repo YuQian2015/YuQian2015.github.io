@@ -1,7 +1,7 @@
 ---
 title: CentOS 7安装和配置wcp知识库系统
 date: 2018-10-11 09:03:47
-tags: [Linux, Wcp]
+tags: [Linux, 全栈]
 toc: true
 ---
 
