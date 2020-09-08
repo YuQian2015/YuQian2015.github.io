@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Moyufed
-subtitle: 又摸到好大一条鱼，羡慕~！摸鱼前端分享交流，欢迎一起来摸鱼。
-description: 分享有趣好玩前端技术
-keywords: 前端,分享,nodejs
-author: YuQian
+title: 摸鱼前端 | Moyufed
+subtitle: 分享有趣好玩的前端技术，游戏研究猿，欢迎交流，一起来摸鱼。
+description: 分享有趣好玩的前端技术
+keywords: 前端,全栈,分享,nodejs,webpack,linux
+author: YQ
 language: zh-CN
 timezone: Etc/GMT+8
 
