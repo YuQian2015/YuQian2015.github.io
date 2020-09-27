@@ -14,6 +14,8 @@ toc: true
 - 一个页面加载主要逻辑 `main.js` ，该文件很大，设计很多业务代码，并且依赖部分 JavaScript 插件，在 `main.js` 执行之前需要确保 JavaScript 插件加载完成。
 - 需要确保 `main.js` 以较快的速度加载，不能因为 `js` 文件的加载顺序影响首页渲染时间。
 
+<!--more-->
+
 ### 解决方案
 
 - 预加载 `main.js` 文件，等到 JavaScript 插件加载完成之后生效。

@@ -12,6 +12,8 @@ tags: [React, 前端]
 2、创建 store 并且使用 ；
 3、使用@装饰器，在 [【前端开发日常 - 3】让create-react-app支持@装饰器语法](http://moyufed.com/2020/09/17/%E3%80%90%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%97%A5%E5%B8%B8-3%E3%80%91%E8%AE%A9create-react-app%E6%94%AF%E6%8C%81-%E8%A3%85%E9%A5%B0%E5%99%A8%E8%AF%AD%E6%B3%95/) 文章中有介绍。
 
+<!--more-->
+
 ### 安装mobx
 
 ``` shell

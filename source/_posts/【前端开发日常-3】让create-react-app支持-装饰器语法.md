@@ -16,6 +16,8 @@ Support for the experimental syntax 'decorators-legacy' isn't currently enabled
 
 > 此工具可以在不 'eject'  也不创建额外 react-scripts 的情况下修改 create-react-app 内置的 webpack 配置，然后你将拥有 create-react-app 的一切特性，且可以根据你的需要去配置 webpack 的 plugins, loaders 等。
 
+<!--more-->
+
 ### 检查版本
 
 检查 babel 版本，我们可以打开 `node_modules/react-scripts/package.json` 查看安装的 babel 版本，针对不同的版本安装不同插件：
