@@ -1,7 +1,7 @@
 ---
 title: 了解 cookie 和 session
 date: 2020-10-07 23:06:18
-tags:
+tags: [全栈]
 ---
 
 ### 为何需要 cookie 和 session？
@@ -22,7 +22,7 @@ tags:
 
 http请求报文：
 
-  ![http_message](img/http_message.png)
+![http_message](img/0003.png)
 
 HTTP 是无状态的，意味着每次页面加载、每次请求都是独立的事件，和前后的事件没有关联。客户端请求服务之后，服务端不能区分发起 HTTP 请求的用户以及用户在网站的状态等，Cookie 和 Session 使 HTTP 能够维持状态，让网站能够记住用户的一些信息。
 
