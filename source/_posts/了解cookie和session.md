@@ -86,7 +86,7 @@ Set-Cookie: <name>=<value>[; expires=<date>][; domain=<domain>][; path=<path>][;
 - `<name>=<value>` - 储存的字符串，会被浏览器携带发送回服务器，通常是一个 `name=value` 格式的字符串
 - `expires` - Cookie 的过期时间，不设置的话，创建的 cookie 在会话结束后销毁，格式为 `DD-Mon-YYYY HH:MM:SS GMT` 
 - `domain` - Cookie 被设置的域，只有向该域发送 HTTP 请求时才会携带对应的 cookie 
-- `path` - Cookie 被设置的路径，之后想该路径发起请求才会携对应的 cookie 
+- `path` - Cookie 被设置的路径，之后向该路径发起请求才会携带对应的 cookie 
 - `secure` - 一个 boolean 标记 cookie 是否只能通过 HTTPS 请求发送至服务器。
 - `httponly` - 告诉浏览器该 cookie 不能通过 JavaScript 访问，可以阻止跨站脚本攻击（XSS）窃用 cookie。
 
